@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.click-span{
+  background-color:lightblue;
+  cursor: pointer;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+img {
+  max-width: 150px;
+  height: auto;
+}
+
+/*
+.card-root{
+  max-width: 150px;
+  height: auto;
+}
+
+.vacation-cards{
+  display: flex;
+  justify-content: space-evenly;
+}*/
